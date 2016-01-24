@@ -1,0 +1,15 @@
+# Site navigation links
+- title: 360 Video
+  url: /360-video/
+  excerpt: "360 video I've worked on"
+  image:
+
+- title: About
+  url: /about/
+  excerpt: "A helpful description"
+  image:
+
+- title: Contact
+  url: /contact/
+  excerpt: "Got questions? Get in touch"
+  image:
