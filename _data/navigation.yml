@@ -1,12 +1,12 @@
 # Site navigation links
 - title: 360 Video
   url: /360-video/
-  excerpt: "360 video I've worked on"
+  excerpt: "Creating 360 videos"
   image:
 
 - title: About
   url: /about/
-  excerpt: "A helpful description"
+  excerpt: "A little bit about Daxon"
   image:
 
 - title: Contact
