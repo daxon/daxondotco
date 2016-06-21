@@ -11,7 +11,7 @@ image:
 ads: false
 ---
 
-##Let's Create Awesome 360 Videos
+## Let's Create Awesome 360 Videos
 
 <hr>
 
