@@ -14,79 +14,104 @@ ads: false
 #Let's Create Awesome 360 Videos
 <hr>
 
-Our aim to bring you on breathtaking experiences from around the world through 360 videos. We've started a 360 production company called '360 Thrill' to lead the way in producing engaging 360 video stories.
+Our aim to bring you on breathtaking experiences from around the world through 360 videos. Our production company '360 Thrill' is leading the way with engaging 360 video journeys for social.
 
-Be sure to check out some of our current 360 videos [right here](https://www.youtube.com/channel/UCD-lebCcXn03aQRaq95AXEw/videos). We're also very interested in listening to your ideas and collaborating on potential projects.
+All our current 360 videos can be found [right here](https://www.youtube.com/channel/UCD-lebCcXn03aQRaq95AXEw/videos).
 
 <br>
+
+## Videos
+
+
+<div class="img-container">
+<div class="split-containers">
+<a href="https://twitter.com/youtube/status/676929760388374529" target="_blank">
+<img src="https://c2.staticflickr.com/8/7179/27168828404_87a84e6d39_n.jpg" alt="Climbing a 75ft tree Youtube 360 video"></a>
+<p>Climbing a 75 meter tree - Australia</p>
+</div>
+<div class="split-containers">
+ <a href="https://twitter.com/youtube/status/676929760388374529" target="_blank">
+   <img src="https://c2.staticflickr.com/8/7272/27502506960_71342eec8e_n.jpg " alt="Youtube Banksy Dismaland 360 video"></a>
+ <p>Banksy Dismaland</p>
+</div>
+</div>
+
+<div class="img-container">
+<div class="split-containers">
+<a href="https://twitter.com/youtube/status/676929760388374529" target="_blank">
+<img src="https://c2.staticflickr.com/8/7246/27168881874_7e920b3a99_n.jpg" alt="Puppy Play Youtube 360 video"></a>
+<p>Puppy Play - DSPCA</p>
+</div>
+<div class="split-containers">
+<a href="https://twitter.com/youtube/status/676929760388374529" target="_blank">
+<img src="https://c2.staticflickr.com/8/7414/27168829244_ed4e5ed178_n.jpg" alt="Total Solar Eclipse from Indonesia Youtube 360 video"></a>
+<p>Total Solar Eclipse from Indonesia </p>
+</div>
+</div>
+
+<div class="img-container">
+<div class="split-containers">
+<a href="https://twitter.com/youtube/status/676929760388374529" target="_blank">
+<img src="https://c2.staticflickr.com/8/7511/27168827824_1589e971d5_n.jpg" alt="YHA Sydney Harbour tour 360 video"></a>
+<p>YHA Sydney Harbour 360 Tour</p>
+</div>
+<div class="split-containers">
+<a href="https://twitter.com/youtube/status/676929760388374529" target="_blank">
+<img src="https://c2.staticflickr.com/8/7309/27502506740_ee68e5be93_n.jpg" alt="Getting Jumped Over by a Horse Youtube 360 video"></a>
+<p>Getting Jumped Over by a Horse</p>
+</div>
+</div>
+
+## The Equipment Used
+
+We use six GoPro HERO 4s in a Freedom360 mount which allows you to film in every direction.
+Various pole mounts and audio recording devices are also used in the production.
+
+<img src="https://c2.staticflickr.com/2/1537/25658564040_840518ac4e_c.jpg" alt="Six Gopros to film 360 video">
+<br>
+<br>
+<img src="https://c2.staticflickr.com/2/1666/25148007673_1e8171a675_c.jpg" alt="Six Gopros in a Freedom360 rig">
+
+## Producing Engaging Content
+
+Our videos are presented and narrated to bring people on a journey. Resonating with the audience to physically follow along
+within the video scenes.
+
+Allan has been producing videos for numerous companies and personal channels for the last fourteen years.
+
 
 ## Current Achievements
 
-> Youtube
+<section>
+  <aside><img src="https://c2.staticflickr.com/8/7335/27529798910_a6cf6e9b39_o.png" alt="Youtube Logo"></aside>
+  <article><p>Featured our videos on their /360 channel three times to a million 360 subscribers.</p>
+  <p><a href="https://twitter.com/youtube/status/676929760388374529" target="_blank">Tweeted</a> our video to 53 million followers.</p>
+  </article>
+</section>
 
-Youtube have featured our videos on their /360 channel twice. We think that's pretty cool. They have also shared another of our videos to their substantial growing community of millions.
-<br>
-<br>
+<section>
+  <aside><img src="https://c2.staticflickr.com/8/7395/27732652421_85fe17a9b2_m.jpg" alt="Mashable Logo"></aside>
+  <article>Published two articles highlighting our 360 videos to their readers. An adventure and educational piece on climbing a seventy-five meter tree and our tour of Banksy's theme park Dismaland.
+  <p><a href="http://mashable.com/2015/12/14/tree-climbing-360-video/?utm_cid=mash-com-Tw-main-link#4GFjNNoWpmq6" target="_blank">Madman climbed a 75 meter-high tree</a></p>
+  <p><a href="http://mashable.com/2015/09/24/dismaland-360-video-tour/" target="_blank">Banksy's Dismaland Themepark Tour</a></p>
+  </article>
+</section>
 
-![Youtube featuring 360 thrill's Banksy Dismaland 360 video](https://c2.staticflickr.com/2/1704/23946214274_664cfdca71_c.jpg)
-<br>
-<br>
-Our Cow licking video featured right beside an official GoPro video.
-<br>
-<br>
-![Youtube featuring 360 thrill's cow licking 360 video](https://c2.staticflickr.com/2/1646/24466076412_ca5fecddf7_c.jpg)
-<br>
-<br>
-They even tweeted our video out to their followers.
-<br>
-<br>
-![Youtube tweeting 360 thrill's tree climbing 360 video](https://c2.staticflickr.com/2/1692/24548184706_566b71f194_c.jpg)
-<br>
-<br>
-<a href="https://twitter.com/youtube/status/676929760388374529" target="_blank">Here's Youtube's tweet</a>
-
-
-We're kind of over the moon with the current recognition from Youtube.
-
-> Mashable
-
-Mashable have published two articles on our 360 videos. An adventure and educational piece on climbing a seventy-five meter tree, as well as our tour of Banksy's theme park Dismaland. These videos were shared across Mashable's network of over 10 million readers and followers.
-
-
-![Mashable published 360 Thrill's tree climbing 360 video](https://c2.staticflickr.com/2/1564/24548340286_aa847da741_c.jpg)
-
-
-<a href="http://mashable.com/2015/12/14/tree-climbing-360-video/?utm_cid=mash-com-Tw-main-link#4GFjNNoWpmq6" target="_blank">Madman climbed a 75 meter-high tree</a>
-
-
-![Mashable published 360 Thrill's Banksy Dislmand 360 video](https://c2.staticflickr.com/2/1678/24278853700_2a070f8ae3_c.jpg)
-
-
-<a href="http://mashable.com/2015/09/24/dismaland-360-video-tour/" target="_blank">Banksy's Dismaland Themepark Tour</a>
-
-
-> Kolor
-
-
-
-We did an interview for Kolor on our Banksy Dismaland video. Kolor develop the video stitching software that we use to produce our 360 videos.
-<br>
-<br>
-![Kolor's interview on the behind the scenes of 360 thrill's Banksy 360 video](https://c2.staticflickr.com/2/1480/24466064972_18595c0a6b_c.jpg)
-<br>
-<br>
-
-
-<a href="http://www.kolor.com/2015/11/13/banksys-dismaland-theme-park-in-360o/" target="_blank">Behind the scenes at Banksy's Dismaland 360 video tour</a>
-<hr>
+<section>
+  <aside><img src="https://c2.staticflickr.com/8/7526/27773482936_60dd65e29f_n.jpg" alt="Kolor | GoPro"></aside>
+  <article>Interviewed us highlighting our Banksy Dismaland 360 video.
+  <p><a href="http://www.kolor.com/2015/11/13/banksys-dismaland-theme-park-in-360o/" target="_blank">Behind the scenes at Banksy's Dismaland 360 video tour</a></p></article>
+</section>
 
 
 <br>
 
 ## Let's Create Even More Awesome 360 Videos
 
-We're on a mission to produce amazing 360 videos over the coming year. Make sure to <a href="https://www.youtube.com/channel/UCD-lebCcXn03aQRaq95AXEw?sub_confirmation=1" target="_blank">subscribe to see more amazing experiences as we release them.</a>
+We're on a mission to produce inspiring 360 videos.
 
 You should be apart of our journey.
 
-If you have an idea, brand, talent or something else that we need to know about then definitely reach out and <a href="mailto:allan@daxon.co?subject=Amazing 360 video idea">email</a> us right now.
+If you have an idea, brand, talent or something else that we need to know about then <a href="mailto:allan@daxon.co?subject=Amazing 360 video idea">reach out</a> to us right now.
+
+Finally, make sure to <a href="https://www.youtube.com/channel/UCD-lebCcXn03aQRaq95AXEw?sub_confirmation=1" target="_blank">subscribe to see more amazing experiences as we release them.</a>

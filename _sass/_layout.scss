@@ -297,6 +297,32 @@
 	}
 }
 
+.img-container {
+	@include outer-container;
+}
+
+.split-containers{
+	@include media($medium) {
+		@include span-columns(6);
+		display: block;
+	}
+}
+
+section {
+  @include outer-container;
+	margin-top: 1em;
+  border-top: 1px solid #eee;
+  aside { @include span-columns(3);
+	padding: 1em;
+ }
+  article {
+		padding: 1em;
+		color: #555;
+		border-left: 1px solid #eee;
+		@include span-columns(9);
+	}
+}
+
 /*
    Page footer
    ========================================================================== */
