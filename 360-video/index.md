@@ -26,8 +26,8 @@ All our current 360 videos can be found [right here](https://www.youtube.com/cha
 
 <div class="img-container">
 <div class="split-containers">
-<a href="https://twitter.com/youtube/status/676929760388374529" target="_blank">
-<img src="https://www.youtube.com/watch?v=GNwm-5e0YQs" alt="Climbing a 75ft tree Youtube 360 video"></a>
+<a href="https://www.youtube.com/watch?v=GNwm-5e0YQs" target="_blank">
+<img src="https://c2.staticflickr.com/8/7179/27168828404_87a84e6d39_n.jpg" alt="Climbing a 75ft tree Youtube 360 video"></a>
 <p>Climbing a 75 meter tree - Australia</p>
 </div>
 <div class="split-containers">
