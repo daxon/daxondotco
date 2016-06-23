@@ -1,7 +1,7 @@
 ---
 layout: article
 title:
-date: 2016-01-24T09:14:08+11:00
+date: 2016-06-22T12:14:35+11:00
 modified:
 excerpt:
 image:
@@ -80,8 +80,14 @@ For more in-depth information about the equipment we use you can read our <a hre
 Our videos are presented and narrated to bring people on a journey. Resonating with the audience to physically follow along
 within the video scenes.
 
-Allan has been producing videos for numerous companies and personal channels for the last fourteen years.
+With fourteen years of experience for a multitude of companies and social channels we have fine tuned
+the whole production process for smooth deliverables.
 
+- Development: ideas, scripting, comms  
+- Pre-production: equipment, scheduling, comms, logistics
+- Production: filming on set, directing 
+- Post-production: editing, colour grading, graphics, audio, sfx
+- Distribution: launch strategy social channels, main stream media
 
 ## Current Achievements
 
