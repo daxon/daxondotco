@@ -22,6 +22,6 @@ title:
 <h2>The Quokka Book - Kickstarter Campaign</h2>
 <p>A beautiful photo book filled with smiling quokkas to inspire happiness in your life.</p>
 <p>Limited copies available for the duration of the campaign. Ends the 17th of August.</p>
-<a href="https://www.kickstarter.com/projects/daxon/2048833382/edit?ref=user_menu#rewards" target="_blank">
+<a href="https://bit.ly/quokkabook" target="_blank">
 <img src="https://c1.staticflickr.com/9/8630/28353832155_b7d922c5bd_o.jpg" alt="Quokka Kickstarter Book is no live">
 </a>
