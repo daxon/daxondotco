@@ -17,7 +17,7 @@ ads: false
 
 Our aim to bring you on breathtaking experiences from around the world through 360 videos. Our production company '360 Thrill' is leading the way with engaging 360 video journeys for social.
 
-All our current 360 videos can be found [right here](https://www.youtube.com/channel/UCD-lebCcXn03aQRaq95AXEw/videos).
+All our current 360 videos can be found <a href="https://www.youtube.com/channel/UCD-lebCcXn03aQRaq95AXEw/videos" target="_blank">right here</a>.
 
 <br>
 
@@ -85,7 +85,7 @@ the whole production process for smooth deliverables.
 
 - Development: ideas, scripting, comms  
 - Pre-production: equipment, scheduling, comms, logistics
-- Production: filming on set, directing 
+- Production: filming on set, directing
 - Post-production: editing, colour grading, graphics, audio, sfx
 - Distribution: launch strategy social channels, main stream media
 
@@ -115,6 +115,13 @@ the whole production process for smooth deliverables.
   Kolor | GoPro interviewed us highlighting our Banksy Dismaland 360 video.
   <p><a href="http://www.kolor.com/2015/11/13/banksys-dismaland-theme-park-in-360o/" target="_blank">Behind the scenes at Banksy's Dismaland 360 video tour</a></p></article>
 </section>
+
+
+<br>
+
+## Clients
+
+
 
 
 <br>

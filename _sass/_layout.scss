@@ -308,6 +308,13 @@
 	}
 }
 
+.social-containers{
+	@include media($medium) {
+		@include span-columns(3);
+		display: block;
+	}
+}
+
 section {
   @include outer-container;
 	margin-top: 1em;
