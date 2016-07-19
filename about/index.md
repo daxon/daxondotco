@@ -29,6 +29,6 @@ With creative thinking, motivation and drive, it lead to some great opportunitie
 
 His work has been featured by Time Magazine, Youtube, Instagram, Mashable, Buzzfeed and The Huffington Post.
 
-Allan's TEDx talk explains how he acieves some of the highlights above and how making yourself vulnerable through user generated content will lead you to succeed.
+Allan's TEDx talk explains how he achieves some of the highlights above and how making yourself vulnerable through user generated content will lead you to succeed.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bBUBtZ6lhhk" frameborder="0" allowfullscreen></iframe>
