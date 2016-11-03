@@ -1,15 +1,20 @@
 # Site navigation links
+- title: Animal Selfies
+  url: /animal-selfies
+  excerpt: "Allan's Animal Selfies"
+  image:
+
 - title: 360 Video
-  url: /360-video/
+  url: /360-video
   excerpt: "We create 360 videos for you"
   image:
 
 - title: About
-  url: /about/
+  url: /about
   excerpt: "A little bit about Allan Dixon"
   image:
 
 - title: Contact
-  url: /contact/
+  url: /contact
   excerpt: "Got questions? Get in touch"
   image:
