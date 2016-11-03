@@ -16,12 +16,12 @@ title:
 
 
 
-<h1>Current Projects</h1>
+<h1>Previous Projects</h1>
 
 
 <h2>The Quokka Book - Kickstarter Campaign</h2>
 <p>A beautiful photo book filled with smiling quokkas to inspire happiness in your life.</p>
-<p>Limited copies available for the duration of the campaign. Ends the 17th of August.</p>
+<p>We're going to launch another Quokka Kickstarter in February 2017. Stay tuned.</p>
 <a href="https://bit.ly/quokkabook" target="_blank">
-<img src="https://c1.staticflickr.com/9/8630/28353832155_b7d922c5bd_o.jpg" alt="Quokka Kickstarter Book is no live">
+<img src="https://c1.staticflickr.com/9/8630/28353832155_b7d922c5bd_o.jpg" alt="Quokka Kickstarter Book is now live">
 </a>
