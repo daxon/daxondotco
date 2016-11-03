@@ -61,11 +61,24 @@ When they get close and sniff the the camera, snap as many photos as possible. I
 <section>
   <aside><img src="https://c2.staticflickr.com/6/5473/30440996200_183a525826_m.jpg" alt="Youtube Logo"></aside>
   <article>
-  <p>Tourism Australia shared Allan's quokka selfie</p>
+  <p>Tourism Australia first shared Allan's quokka selfie in May of 2014 to their audience of 5 million at the time. People had never heard of quokkas until this post went viral and wanted more. This is the moment the 'quokka selfie' started trending.</p>
   <p><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSeeAustralia%2Fphotos%2Fa.10152439605560909.1073742026.11071120908%2F10152439605895909%2F%3Ftype%3D3&width=500" width="500" height="461" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></p>
   </article>
 </section>
 
+<section>
+  <aside><img src="https://c2.staticflickr.com/6/5634/30658404801_911d8afa27_t.jpg" alt="Mashable Logo"></aside>
+  <article>
+  <p>Russia Today(RT.com) were the first to publish the collection of Allan's animal selfies in Decemeber 2015. This started the craze and lead to thousands of media features across the world.</p>
+
+  <p><a href="https://www.rt.com/news/325799-when-animal-selfies-go-right/" target="_blank">When animal selfies go right(and wrong).
+  </a></p>
+  <p><a href="https://www.rt.com/news/325799-when-animal-selfies-go-right/" target="_blank">
+<img src="https://c2.staticflickr.com/6/5612/30445872950_b33683faa7.jpg" alt="Allan smiling face">
+  </a></p>
+
+  </article>
+</section>
 
 <section>
   <aside><img src="https://c2.staticflickr.com/6/5749/30441039410_d78b00b62c_m.jpg" alt="Kolor | GoPro"></aside>
@@ -74,6 +87,7 @@ When they get close and sniff the the camera, snap as many photos as possible. I
   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Flicking through the in-flight <a href="https://twitter.com/JetstarAirways">@JetstarAirways</a> magazine and oh hello. There&#39;s my animal selfie. What?!! <a href="https://t.co/24XI2yAp6y">pic.twitter.com/24XI2yAp6y</a></p>&mdash; Allan Dixon (@daxon) <a href="https://twitter.com/daxon/status/682773544233635840">January 1, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></article>
 </section>
+
 
 
 <section>
@@ -103,6 +117,7 @@ When they get close and sniff the the camera, snap as many photos as possible. I
 <section>
   <aside><img src="https://c2.staticflickr.com/6/5674/30704867446_8a43256a11_m.jpg" alt="Kolor | GoPro"></aside>
   <article>
+  <p>Channel 7 Australia interviewed Allan on Sunrise about the selfies noting how much joy they bring to the world.</p>
   <p><a href="https://au.tv.yahoo.com/sunrise/video/watch/32952373/meet-the-man-who-takes-amazing-selfies-with-animals/#page1" target="_blank">Watch the interview right here.</a></p>
 <a href="https://au.tv.yahoo.com/sunrise/video/watch/32952373/meet-the-man-who-takes-amazing-selfies-with-animals/#page1" target="_blank">
 <img src="https://c2.staticflickr.com/6/5449/30741562715_d50f754cb2.jpg" alt="Allan smiling face">
